@@ -1,0 +1,18 @@
+.formcontrol{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 1em;
+}
+.formcontrol label{
+	margin-bottom: .6em;
+	font-weight: bold;
+}
+.formcontrol select{
+	padding: .7em;
+	border-radius: 0;
+	border: none;
+}
+.formcontrol option{
+	color: #7b7b7b;
+}
+
